@@ -1,4 +1,8 @@
-Main（）
+Main()
 {
 	print "hello world!"
+}
+metho()
+{
+	print "my name is 毛"
 }
